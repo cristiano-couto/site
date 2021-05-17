@@ -46,21 +46,7 @@
         text-decoration: none;
         font-weight: bold;
     }
-
-    .menu-top{
-        margin-top: 15px;
-        position: absolute;
-        left: 70%;
-        word-spacing: 5px;
-    }
-
-    .menu-top a{
-        color: black;
-        text-decoration: 50%;
-        font-weight: bold;
-        margin-right: 15px;
-    }
-
+   
     .conteudo{
         position: absolute;
         left: 20%;
